@@ -1,0 +1,17 @@
+.container {
+    position: relative;
+}
+.heading {
+    font-size: 40px;
+    color: #000000;
+    font-family: 'Tangerine', serif;
+    position: absolute;
+    top: 10%;
+    left: 20%;
+}
+#button {
+    font-size: 15px;
+    position: absolute;
+    bottom: 2%;
+    left: 50%;
+}
